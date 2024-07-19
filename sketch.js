@@ -16,7 +16,7 @@ function draw() {
   
 
     if(n==0) {
-    x=x+10;
+    x=x+3;
   }  
   else if(n==1){
     stroke('blue');
